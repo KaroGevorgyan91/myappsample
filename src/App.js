@@ -4,14 +4,11 @@ import './App.css';
 
 function App() {
   return (
-    console.log("Checking git!");
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          <div>Hello friend from new Lenovo!!!Tatev please pay an attention </div>
-          <p>Testing the git</p>
         </p>
         <a
           className="App-link"
@@ -22,8 +19,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <div>Hello friend from new Lenovo!!!Tatev please pay an attention </div>
+      <div>Testing the git</div>
     </div>
   );
 }
+console.log("Checking git!");
 
 export default App;
