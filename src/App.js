@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import './login'
+import './login';
+import './map';
 
 function App() {
   return (
