@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import './login';
 import './map';
+import './contactUs';
 
 function App() {
   return (
